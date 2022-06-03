@@ -1,5 +1,8 @@
 *
-!.gitignore
-!README.md
 !.vscode
 !.vscode/*
+!agoh
+!agoh/*
+!.gitignore
+!.gitmodules
+!README.md
