@@ -1,3 +1,4 @@
 [submodule "agoh"]
 	path = agoh
 	url = https://github.com/StableAgOH/CPLib-AlgOritHm.git
+	branch = main
