@@ -10,7 +10,7 @@
             "const int maxn = 1e5+5;",
             "signed main(signed argc, char const *argv[])",
             "{",
-            "#ifdef LOCAL",
+            "#if defined(LOCAL) || defined(DEBUG)",
             "    freopen(\"in.in\", \"r\", stdin);",
             "#ifndef DEBUG",
             "    freopen(\"out.out\", \"w\", stdout);",
