@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "**/include/c++/**": "cpp"
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools",
     }
 }
