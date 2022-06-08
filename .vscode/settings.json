@@ -4,5 +4,6 @@
     },
     "[cpp]": {
         "editor.defaultFormatter": "ms-vscode.cpptools",
-    }
+    },
+    "cmake.configureOnOpen": false
 }
